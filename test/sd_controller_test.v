@@ -62,9 +62,7 @@ module sd_controller_test();
         i_Write_Data = 0;
 
         #100;
-        i_Read_Request = 0;
         i_Write_Request = 1;
-        i_Read_Address = 0;
         i_Write_Address = 1;
         i_Write_Data = 12;
         
